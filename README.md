@@ -10,5 +10,9 @@ My current education goals are:
 
 I have some familiarity with C, C++, Java, HTML, CSS, Javascript, SQL, and Python but do not feel that I am proficient in any of these languages.
 
+I recently purchased a Raspberry Pi 4 b with the intent to host a webpage as a project that I can showcase on my resume as well.
+The Raspberry Pi also provides an easy to restore linux based environment to utilize.
+I will also be using the Raspberry Pi for practicle coding applications such as controlling compontents like LEDs and displays.
+
 I am casually studying Spanish, Japanese, and Gaeilge (Irish) in my free time as a passion/hobby.  
 I am not fluent in these languages, but I do enjoy studying them. 
